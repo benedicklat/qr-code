@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(216, 215, 250);
+}
+
+.card {
+    background-color: white;
+    width: 280px;
+    height: 450px;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 25px;
+}
+
+img {
+    width: 90%;
+    height: 55%;
+    margin-left: 14px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    letter-spacing: 1px;
+    font-size:large;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+}
+
+h5 {
+    font-family: 'Poppins';
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    margin-top: 20px;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+
+}
