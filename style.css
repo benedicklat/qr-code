@@ -9,6 +9,7 @@ body {
     margin: auto;
     margin-top: 150px;
     border-radius: 25px;
+    box-shadow: 0 0 20px rgba(8, 7, 16, 0.6);
 }
 
 img {
@@ -21,19 +22,21 @@ img {
 
 h2 {
     text-align: center;
-    font-family: 'Cabin', sans-serif;
-    letter-spacing: 1px;
-    font-size:large;
+    font-family: 'Outfit', sans-serif;
+    font-size: large;
     padding-left: 20px;
     padding-right: 20px;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 h5 {
-    font-family: 'Poppins';
+    font-family: 'Outfit', sans-serif;
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
+    color: rgb(152, 152, 152);
+    font-size: 15px;
+    font-weight: 400;
 }
 .attribution { 
     font-size: 11px; 
