@@ -29,7 +29,7 @@ The main programming language used was primarily HTML & CSS.
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/benedicklat/mentorship.git)
+- Solution URL: [GitHub](https://github.com/benedicklat/qr-code)
 - Live Site URL: [GitHub Page](https://benedicklat.github.io/qr-code)
 
 ## My process
