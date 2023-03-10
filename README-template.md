@@ -29,8 +29,8 @@ The main programming language used was primarily HTML & CSS.
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com](https://github.com/benedicklat/mentorship.git)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com](https://benedicklat.github.io/qr-code)
+- Solution URL: [GitHub](https://github.com/benedicklat/mentorship.git)
+- Live Site URL: [GitHub Page](https://benedicklat.github.io/qr-code)
 
 ## My process
 
